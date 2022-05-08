@@ -1,0 +1,52 @@
+{
+  "1": {
+    "description": "a dank, musty cell, just wide enough for a man to almost fully stretch out on the rough stone floor",
+    "exits": [
+      {
+        "description": "a single cell door, made of rough hewn wooden planks, with a single barred window set near the top",
+        "direction": "West",
+        "room_id": "2"
+      }
+    ]
+  },
+  "2": {
+    "description": "a long hallway, illuminated by a single torch. The walls are rough hewn stone, and water drips from the ceiling",
+    "exits": [
+      {
+        "description": "a single cell door, made of rough hewn wooden planks, with a single barred window set near the top",
+        "direction": "East",
+        "room_id": "1"
+      },
+      {
+        "description": "a single cell door, made of rough hewn wooden planks. A small metal ring is attached as a handle",
+        "direction": "North",
+        "room_id": "3"
+      },
+      {
+        "description": "a heavy wooden door, with sheets of hammered metal covering the wooden planks",
+        "direction": "West",
+        "room_id": "4"
+      }
+    ]
+  },
+  "3": {
+    "description": "a dank, musty cell, just wide enough for a man to almost fully stretch out on the rough stone floor. There is a bed of straw on the floor",
+    "exits": [
+      {
+        "description": "a single cell door, made of rough hewn wooden planks, with a single barred window set near the top",
+        "direction": "South",
+        "room_id": "2"
+      }
+    ]
+  },
+  "4": {
+    "description": "a small stone room. A single torch in a wall sconce illuminates the room. In the center is a wooden table, surrounded by several chairs",
+    "exits": [
+      {
+        "description": "a heavy wooden door, with sheets of hammered metal covering the wooden planks",
+        "direction": "East",
+        "room_id": "2"
+      }
+    ]
+  }
+}
