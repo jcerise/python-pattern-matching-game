@@ -8,8 +8,8 @@ This project has very little to do with structural pattern matching at this poin
 I may write a couple blog posts about this.
 
 # Running the sample game
-Checkout the repo
-`python main.py`
+1. Checkout the repo
+2. `python main.py`  
 (Only works on Python 3.10+)
 
 # Creating your own game
